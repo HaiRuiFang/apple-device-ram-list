@@ -58,7 +58,7 @@ iPhone device identifier, marketing model name, and RAM (memory) list.
 | `iPhone17,5` | iPhone 16e | 8 GB |
 | `iPhone18,1` | iPhone 17 Pro | 12 GB |
 | `iPhone18,2` | iPhone 17 Pro Max | 12 GB |
-| `iPhone18,3` | iPhone 17 | 12 GB |
+| `iPhone18,3` | iPhone 17 | 8 GB |
 | `iPhone18,4` | iPhone Air | 12 GB |
 | `iPhone18,5` | iPhone 17e | 8 GB |
 
