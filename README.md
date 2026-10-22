@@ -89,8 +89,10 @@ iPhone device identifier, marketing model name, and RAM (memory) list.
 | `iPad13,16`, `iPad13,17` | iPad Air 5 | 8 GB |
 | `iPad14,8`, `iPad14,9` | iPad Air 11-inch (M2) | 8 GB |
 | `iPad15,3`, `iPad15,4` | iPad Air 11-inch (M3) | 8 GB |
+| `iPad16,8`, `iPad16,9` | iPad Air 11-inch (M4) | 12 GB |
 | `iPad14,10`, `iPad14,11` | iPad Air 13-inch (M2) | 8 GB |
 | `iPad15,5`, `iPad15,6` | iPad Air 13-inch (M3) | 8 GB |
+| `iPad16,10`, `iPad16,11` | iPad Air 13-inch (M4) | 12 GB |
 | `iPad2,5`, `iPad2,6`, `iPad2,7` | iPad Mini | 512 MB |
 | `iPad4,4`, `iPad4,5`, `iPad4,6` | iPad Mini 2 | 1 GB |
 | `iPad4,7`, `iPad4,8`, `iPad4,9` | iPad Mini 3 | 1 GB |
